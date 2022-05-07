@@ -22,6 +22,7 @@ class tempsensor():
                             "temperature":0,
                             "humidity":0,
                             "u": "anita",
+                            "ID": "1234",
                             "time": round(time.time(),1),
                         }
                     ]
